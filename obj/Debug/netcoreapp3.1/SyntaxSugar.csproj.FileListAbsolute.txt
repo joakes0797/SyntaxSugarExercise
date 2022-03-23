@@ -1,0 +1,14 @@
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csproj.AssemblyReference.cache
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfoInputs.cache
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfo.cs
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csproj.CoreCompileInputs.cache
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.exe
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.deps.json
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.json
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.dev.json
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.dll
+D:\repos\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.pdb
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.dll
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.pdb
+D:\repos\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.genruntimeconfig.cache
